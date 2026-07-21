@@ -64,13 +64,6 @@
 
 ###
 
-<!-- TROPHIES (mirror alterno #3) -->
-<div align="center">
-  <img src="https://github-profile-trophy-tau.vercel.app/?username=DLGFSS&theme=darkhub&no-frame=true&row=1&column=7" />
-</div>
-
-###
-
 <!-- TOP LANGUAGES (mismo mirror que stats) -->
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DLGFSS&layout=compact&theme=dark&hide_border=true" />
