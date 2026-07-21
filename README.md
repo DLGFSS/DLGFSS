@@ -50,26 +50,30 @@
 
 ###
 
+<!-- STATS (usando mirror alterno en vez del oficial vercel.app, que se satura seguido) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DLGFSS&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DLGFSS&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </div>
 
 ###
 
+<!-- STREAK (mirror confirmado activo, demolab estaba caído) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DLGFSS&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DLGFSS&theme=dark&hide_border=true" />
 </div>
 
 ###
 
+<!-- TROPHIES (mirror alterno #3) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DLGFSS&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-tau.vercel.app/?username=DLGFSS&theme=darkhub&no-frame=true&row=1&column=7" />
 </div>
 
 ###
 
+<!-- TOP LANGUAGES (mismo mirror que stats) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLGFSS&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DLGFSS&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ###
