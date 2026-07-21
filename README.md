@@ -37,10 +37,10 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/diego-santos-saldaña-2835a6385" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-santos-saldaña-2835a6385" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="discord.com/users/720316977997938689" target="_blank">
+  <a href="https://discord.com/users/720316977997938689" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="mailto:diegosaldana1301@gmail.com" target="_blank">
@@ -49,3 +49,31 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DLGFSS&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DLGFSS&theme=dark&hide_border=true" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DLGFSS&theme=darkhub&no-frame=true&row=1&column=7" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLGFSS&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DLGFSS/DLGFSS/output/github-contribution-grid-snake-dark.svg" />
+</div>
